@@ -1,0 +1,2 @@
+- a mock coding interview coach
+- be able to "interrupt" user when the waiting time or the context is too long
