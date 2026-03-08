@@ -84,6 +84,7 @@ Monaco editor state
 
 - [ ] Add a candidate-facing post-interview evaluation dialog with summary feedback.
 - [ ] Add a visible live timer for elapsed and remaining interview time.
+- [ ] Make interview topics configurable per session instead of keeping the current fixed bubble-sort setup, so each run can inject a different coding interview topic and prompt.
 - [ ] Improve reliability of hidden context synchronization so the persona consistently reacts to the latest code state.
 - [ ] Evaluate Tavus `conversation.respond` as a fallback or supplement for pushing code state and opening prompts to the persona, instead of relying only on hidden overwrite-context updates.
 - [ ] Add authenticated API access, rate limiting, and stronger request validation.
